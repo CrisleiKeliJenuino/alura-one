@@ -1,14 +1,30 @@
-# Meus Estudos de TI - Alura
+# 💻 Meus Estudos de TI - Alura
 
-Este repositório contém arquivos, exercícios e anotações dos cursos que estou fazendo na plataforma **Alura**, organizados por cursos concluídos e em andamento.
+![Alura](https://seeklogo.com/images/A/alura-logo-3B8E6A9C8F-seeklogo.com.png) ![ONE](https://github.com/Mdsoare/oracle-next-education/blob/main/img/logo-one.webp)
 
-## Sobre a Alura
-A Alura é uma plataforma de ensino online focada em tecnologia, desenvolvimento de software, dados e design.
+Este repositório contém arquivos, exercícios e anotações dos cursos que estou realizando na plataforma **Alura** e no programa **Oracle Next Education (ONE)**.
 
-## Cursos Concluídos
-- **Lógica de Programação com JavaScript** – Aprendi os fundamentos da programação, estruturas de controle, variáveis, funções e manipulação de dados usando JavaScript.
+## 📚 Cursos Concluídos
 
-## Cursos em Andamento
-- **Lógica de Programação: Explore Funções e Listas** – Aprendendo sobre funções, listas, iterações e manipulação de coleções em JavaScript.
+### 🟢 Lógica de Programação com JavaScript
+- Aprendi os fundamentos da programação
+- Estruturas de controle (`if`, `else`, `switch`)
+- Variáveis e tipos de dados
+- Funções e escopo
+- Manipulação de dados usando JavaScript
 
-> ⚠️ Este curso ainda está em andamento e o conteúdo continuará sendo atualizado à medida que avanço nos estudos.
+## 🔄 Cursos em Andamento
+
+### 🟡 Lógica de Programação: Explore Funções e Listas
+- Aprendendo sobre funções, listas e arrays
+- Iterações e loops (`for`, `while`)
+- Manipulação de coleções em JavaScript
+
+⚠️ **Progresso:** 40% concluído
+
+## 🚀 Status dos Estudos
+
+| Curso | Status | Progresso |
+|-------|--------|-----------|
+| Lógica de Programação com JavaScript | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| Lógica de Programação: Explore Funções e Listas | 🔄 Em andamento | ![40%](https://img.shields.io/badge/40%25-yellow) |
