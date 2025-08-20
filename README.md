@@ -42,10 +42,10 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 ## 🚀 Status dos Estudos
 
-| Curso | Plataforma | Status | Progresso |
-|-------|------------|--------|-----------|
-| Lógica de Programação com JavaScript | ![Alura](logos/alura.webp) | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| Lógica de Programação: Explore Funções e Listas | ![Alura](logos/alura.webp) | 🔄 Em andamento | ![40%](https://img.shields.io/badge/40%25-yellow) |
+| Curso | Status | Progresso |
+|-------|--------|-----------|
+| Lógica de Programação com JavaScript | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| Lógica de Programação: Explore Funções e Listas | 🔄 Em andamento | ![40%](https://img.shields.io/badge/40%25-yellow) |
 
 ---
 
