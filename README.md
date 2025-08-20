@@ -21,7 +21,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 - Funções e escopo  
 - Manipulação de dados usando JavaScript  
 
-<img src="certificados/Lógica de programação JavaScript.jpg">
+<img src="certificados/Lógica de programação JavaScript.jpg"/>
 
 ---
 
