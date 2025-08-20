@@ -1,7 +1,7 @@
 # 💻 Meus Estudos de TI - Alura & ONE
 
 <p align="center">
-  <img src="logos/alura.webp" alt="Logo da Alura" width="120"/>
+  <img src="logos/alura.webp" alt="Logo da Alura" width="240"/>
   <img src="logos/one.png" alt="Logo do ONE" width="120"/>
 </p>
 
@@ -43,8 +43,8 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 | Curso | Plataforma | Status | Progresso |
 |-------|------------|--------|-----------|
-| Lógica de Programação com JavaScript | ![Alura](logos/alura.png) | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| Lógica de Programação: Explore Funções e Listas | ![Alura](logos/alura.png) | 🔄 Em andamento | ![40%](https://img.shields.io/badge/40%25-yellow) |
+| Lógica de Programação com JavaScript | ![Alura](logos/alura.webp) | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| Lógica de Programação: Explore Funções e Listas | ![Alura](logos/alura.webp) | 🔄 Em andamento | ![40%](https://img.shields.io/badge/40%25-yellow) |
 
 ---
 
