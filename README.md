@@ -36,7 +36,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 - Manipulação de coleções em JavaScript  
 
 ⚠️ **Progresso atual:** 54% concluído  
-![Progress](https://img.shields.io/badge/Progresso-40%25-yellow)  
+![Progress](https://img.shields.io/badge/Progresso-54%25-yellow)  
 
 ---
 
