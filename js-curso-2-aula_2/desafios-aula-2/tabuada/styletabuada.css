@@ -1,0 +1,51 @@
+body {
+    background-image: url("img/fundo-de-borda-de-quadro-de-matematica-gratis-vetor.jpg");
+    background-size: cover;       /* cobre toda a tela */
+    background-position: center center;  /* centraliza a imagem */
+    background-repeat: no-repeat; /* evita repetição */
+}
+
+h2 {
+    color: rgb(172, 12, 124);
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    display: block;        /* botão ocupa uma linha inteira */
+    margin: 20px auto;     /* margem automática nas laterais */
+    padding: auto;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    background-color: #4CAF50; /* cor de fundo verde */
+    color: white;          /* texto branco */
+}
+button:hover {
+    background-color: #45a049; /* cor de fundo verde mais escuro ao passar o mouse */
+}
+div#resultadoTabuada {
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
