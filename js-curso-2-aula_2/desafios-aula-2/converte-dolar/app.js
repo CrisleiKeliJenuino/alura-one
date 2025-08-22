@@ -7,4 +7,6 @@ function mostrarConversao() {
     const dollarInput = document.getElementById('dollarInput').value;
     const resultado = convertDolarToReal(Number(dollarInput));
     document.getElementById('resultado').textContent = `R$ ${resultado.toFixed(2)}`;
+        // Limpa os campos para novo cálculo
+    document.getElementById("dollarInput").value = "";
 }
