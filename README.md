@@ -35,8 +35,8 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 - Iterações e loops (`for`, `while`)  
 - Manipulação de coleções em JavaScript  
 
-⚠️ **Progresso atual:** 54% concluído  
-![Progress](https://img.shields.io/badge/Progresso-54%25-yellow)  
+⚠️ **Progresso atual:** 61% concluído  
+![Progress](https://img.shields.io/badge/Progresso-61%25-yellow)  
 
 ---
 
@@ -45,7 +45,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 | Curso | Status | Progresso |
 |-------|--------|-----------|
 | Lógica de Programação com JavaScript | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| Lógica de Programação: Explore Funções e Listas | 🔄 Em andamento | ![54%](https://img.shields.io/badge/54%25-yellow) |
+| Lógica de Programação: Explore Funções e Listas | 🔄 Em andamento | ![61%](https://img.shields.io/badge/61%25-yellow) |
 
 ---
 
