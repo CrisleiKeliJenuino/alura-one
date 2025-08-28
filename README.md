@@ -45,7 +45,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 | Curso | Status | Progresso |
 |-------|--------|-----------|
 | Lógica de Programação com JavaScript | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| Lógica de Programação: Explore Funções e Listas | 🔄 Em andamento | ![61%](https://img.shields.io/badge/61%25-yellow) |
+| Lógica de Programação: Explore Funções e Listas | 🔄 Em andamento | ![77%](https://img.shields.io/badge/77%25-yellow) |
 
 ---
 
