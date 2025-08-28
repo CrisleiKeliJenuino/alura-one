@@ -35,7 +35,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 - Iterações e loops (`for`, `while`)  
 - Manipulação de coleções em JavaScript  
 
-⚠️ **Progresso atual:** 61% concluído  
+⚠️ **Progresso atual:** 77% concluído  
 ![Progress](https://img.shields.io/badge/Progresso-61%25-yellow)  
 
 ---
