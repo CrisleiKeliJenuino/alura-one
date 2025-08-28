@@ -22,7 +22,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 - Manipulação de dados usando JavaScript  
 
 <p align="center"> 
-<img src="certificados/logica-de-programacao-js.jpg" alt="LÓGICA DE PROGRAMAÇÃO: MERGULHE EM PROGRAMAÇÃO COM JAVASCRIPT" width="400"/>
+<img src="certificados/logica-de-programacao-js.jpg" alt="LÓGICA DE PROGRAMAÇÃO: MERGULHE EM PROGRAMAÇÃO COM JAVASCRIPT" width="200"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 - Manipulação de coleções em JavaScript  
 
 <p align="center"> 
-<img src="certificados/logica-de-programacao-funcoes-e-listas-js" alt="LÓGICA DE PROGRAMAÇÃO: EXPLORE FUNÇÕES ELISTAS" width="400"/>
+<img src="certificados/logica-de-programacao-funcoes-e-listas-js" alt="LÓGICA DE PROGRAMAÇÃO: EXPLORE FUNÇÕES E LISTAS" width="200"/>
 </p>
 
 --- 
