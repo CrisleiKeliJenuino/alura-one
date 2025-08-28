@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+body::before {
+    background-image: url("img/code.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.4;
+}
+
+h1 {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 60px;
+    margin-left: 3rem;
+}
+
+.container__texto {
+    margin: 16px 0 16px 0;
+}
+
+.container__texto-azul {
+    color: #1875E8;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-left: 3rem;
+    list-style-type: disc;
+}
