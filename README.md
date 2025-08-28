@@ -24,28 +24,30 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 <p align="center"> 
 <img src="certificados/logica-de-programacao-js.jpg" alt="Certificado Lógica de Programação JavaScript" width="400"/>
 </p>
+
 ---
 
-## 🔄 Cursos em Andamento
+## 📚 Cursos Concluídos
 
-### 🟡 Lógica de Programação: Explore Funções e Listas  
+### 🟢 Lógica de Programação: Explore Funções e Listas  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 - Funções, listas e arrays  
 - Iterações e loops (`for`, `while`)  
 - Manipulação de coleções em JavaScript  
 
-⚠️ **Progresso atual:** 77% concluído  
-![Progress](https://img.shields.io/badge/Progresso-77%25-yellow)  
+<p align="center"> 
+<img src="certificados/logica-de-programacao-funcoes-e-listas-js" alt="Certificado Lógica de Programação JavaScript" width="400"/>
+</p>
 
----
+--- 
 
 ## 🚀 Status dos Estudos
 
 | Curso | Status | Progresso |
 |-------|--------|-----------|
 | Lógica de Programação com JavaScript | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| Lógica de Programação: Explore Funções e Listas | 🔄 Em andamento | ![77%](https://img.shields.io/badge/77%25-yellow) |
+| Lógica de Programação: Explore Funções e Listas | ✅ Concluído | ![100%](https://img.shields.io/badge/77%25-yellow) |
 
 ---
 
