@@ -22,7 +22,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 - Manipulação de dados usando JavaScript  
 
 <p align="center"> 
-<img src="certificados/logica-de-programacao-js.jpg" alt="Certificado Lógica de Programação JavaScript" width="400"/>
+<img src="certificados/logica-de-programacao-js.jpg" alt="LÓGICA DE PROGRAMAÇÃO: MERGULHE EM PROGRAMAÇÃO COM JAVASCRIPT" width="400"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 - Manipulação de coleções em JavaScript  
 
 <p align="center"> 
-<img src="certificados/logica-de-programacao-funcoes-e-listas-js" alt="Certificado Lógica de Programação JavaScript" width="400"/>
+<img src="certificados/logica-de-programacao-funcoes-e-listas-js" alt="LÓGICA DE PROGRAMAÇÃO: EXPLORE FUNÇÕES ELISTAS" width="400"/>
 </p>
 
 --- 
@@ -47,7 +47,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 | Curso | Status | Progresso |
 |-------|--------|-----------|
 | Lógica de Programação com JavaScript | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| Lógica de Programação: Explore Funções e Listas | ✅ Concluído | ![100%](https://img.shields.io/badge/77%25-yellow) |
+| Lógica de Programação: Explore Funções e Listas | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 
 ---
 
