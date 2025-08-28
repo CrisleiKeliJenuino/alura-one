@@ -29,7 +29,6 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 - Funções, listas e arrays  
-- Iterações e loops (`for`, `while`)  
 - Manipulação de coleções em JavaScript  
 
 --- 
