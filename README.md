@@ -15,23 +15,21 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 ### 🟢 Lógica de Programação com JavaScript  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-- Fundamentos da programação  
-- Estruturas de controle (`if`, `else`, `switch`)  
-- Variáveis e tipos de dados  
-- Funções e escopo  
-- Manipulação de dados usando JavaScript  
-
----
-
-## 📚 Cursos Concluídos
+- Aprender fundamentos da programação e boas práticas.
+- Utilizar estruturas de controle (`if`, `else`).
+- Trabalhar com variáveis e tipos de dados.
+- Criar funções e entender escopo.
+- Manipular dados usando JavaScript.
 
 ### 🟢 Lógica de Programação: Explore Funções e Listas  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-- Funções, listas e arrays  
-- Manipulação de coleções em JavaScript  
+- Aprender o que são funções e como usá-las para manipular elementos na tela com JavaScript.
+- Utilizar listas (arrays), uma das principais estruturas de dados.
+- Realizar manipulações dinâmicas de palavras e números usando JavaScript.
+- Publicar projetos no GitHub e Vercel.
 
---- 
+---
 
 ## 🚀 Status dos Estudos
 
