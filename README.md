@@ -15,19 +15,20 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 ### ✅ Lógica de programação: mergulhe em programação com JavaScript 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-- Aprender fundamentos da programação e boas práticas.
-- Utilizar estruturas de controle (`if`, `else`).
-- Trabalhar com variáveis e tipos de dados.
-- Criar funções e entender escopo.
-- Manipular dados usando JavaScript.
+- Exiba mensagens na tela de forma interativa
+- Utilize variáveis no desenvolvimento de software
+- Ingresse no mundo de desenvolvimento seguindo boas práticas de programação
+- Desenvolva uma aplicação do início ao fim, inspirada no mundo real
+- Aprenda a adaptar soluções desenvolvidas pela linguagem em seus programas de software
 
 ### ✅ Lógica de programação: explore funções e listas  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-- Aprender o que são funções e como usá-las para manipular elementos na tela com JavaScript.
-- Utilizar listas (arrays), uma das principais estruturas de dados.
-- Realizar manipulações dinâmicas de palavras e números usando JavaScript.
-- Publicar projetos no GitHub e Vercel.
+- Aprenda o que são funções e como usar o JavaScript para manipular elementos na tela
+- Desenvolva ainda mais sua lógica de programação inspirado num projeto real
+- Saiba como usar o Github e Vercel para publicar seus projetos
+- Descubra como utilizar listas, uma das principais estruturas de dados no mundo da programação
+- Crie manipulações de palavras e números de forma dinâmica com JavaScript
 
 ---
 
