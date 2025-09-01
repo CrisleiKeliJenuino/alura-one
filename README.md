@@ -92,7 +92,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 | Lógica de Programação: Explore Funções e Listas              | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | Git e GitHub: compartilhando e colaborando em projetos       | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-ghtgreen)         |
 | IA: explorando o potencial da inteligência artificial generativa       | 🚧 Em andamento | ![10%](https://img.shields.io/badge/10%25-yellow)         |
-| Engenharia de Prompt: criando prompts eficazes para IA Generativa       | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-green)         |
+| Engenharia de Prompt: criando prompts eficazes para IA Generativa       | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-ghtgreen)         |
 
 ---
 
