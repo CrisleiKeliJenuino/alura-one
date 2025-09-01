@@ -10,7 +10,9 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 ---
 
-## 📚 Meus Cursos
+# 📚 Meus Cursos
+
+## Aprenda lógica de programação
 
 ### ✅ Lógica de programação: mergulhe em programação com JavaScript 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
@@ -32,6 +34,8 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 ---
 
+## Ganhe experiência com Git
+
 ### ✅ Git e GitHub: compartilhando e colaborando em projetos  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -43,11 +47,29 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 ---
 
-## 📚 Meus Cursos em andamento 🚧
+## Encara o Challenge de Iniciante em Programação
 
-### 🚧 Engenharia de Prompt: criando prompts eficazes para IA Generativa 
-![IA Generativa](https://img.shields.io/badge/IA%20Generativa-7289DA?style=flat&logo=openai&logoColor=white)
+### ✅ Praticando Lógica de Programanção: Challenge amigo secreto
+
+![Challenge amigo secreto](https://github.com/CrisleiKeliJenuino/challenge-amigo-secreto)
+
+---
+
+## Domine a IA Generativa
+
+### 🚧 IA: explorando o potencial da inteligência artificial generativa
+![IA para Negócios](https://img.shields.io/badge/IA%20Generativa-7289DA?style=flat&logo=openai&logoColor=white)
 ![Em andamento](https://img.shields.io/badge/Em%20andamento-yellow)
+
+- Como utilizar o ChatGPT para criar e manipular textos
+- Explorar as funcionalidades do Google AI Studio para IAs multimodais
+- Revisar e resumir textos de forma eficiente com o Gemini
+- Integrar a Maritaca AI no ambiente de trabalho
+- Aplicar IAs generativas para aumentar a produtividade
+- Utilizar IAs para lidar com diferentes tipos de mídia
+
+### ✅ Engenharia de Prompt: criando prompts eficazes para IA Generativa 
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa-7289DA?style=flat&logo=openai&logoColor=white)
 
 - Conceitos fundamentais de LLM e proximidade semântica
 - Entender e utilizar tokens
@@ -58,6 +80,10 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 ---
 
+## 📚 Meus Cursos em andamento 🚧
+
+![Em andamento](https://img.shields.io/badge/Em%10andamento-yellow)
+
 ## 🚀 Status dos Estudos
 
 | Curso                                                        | Status        | Progresso                                      |
@@ -65,7 +91,8 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 | Lógica de Programação com JavaScript                         | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | Lógica de Programação: Explore Funções e Listas              | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | Git e GitHub: compartilhando e colaborando em projetos       | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-ghtgreen)         |
-| Engenharia de Prompt: criando prompts eficazes para IA Generativa       | 🚧 Em andamento | ![40%](https://img.shields.io/badge/40%25-yellow)         |
+| IA: explorando o potencial da inteligência artificial generativa       | 🚧 Em andamento | ![10%](https://img.shields.io/badge/10%25-yellow)         |
+| Engenharia de Prompt: criando prompts eficazes para IA Generativa       | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-yellow)         |
 
 ---
 
