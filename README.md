@@ -12,7 +12,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 # 🏆 Meus Certificados
 
-Todos os certificados dos cursos podem ser conferidos na pasta [certificados](certificados/).
+Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](certificados/).
 
 ---
 
