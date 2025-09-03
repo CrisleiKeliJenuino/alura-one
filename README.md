@@ -6,7 +6,6 @@
 </p>
 
 Este repositório reúne meus exercícios, arquivos e anotações dos cursos da **Alura** e do programa **Oracle Next Education (ONE)**.  
-Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 ---
 
