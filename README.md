@@ -28,8 +28,7 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 - Desenvolva uma aplicação do início ao fim, inspirada no mundo real
 - Aprenda a adaptar soluções desenvolvidas pela linguagem em seus programas de software
 
-### ✅ Lógica de programação: explore funções e listas  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  Lógica de programação: explore funções e listas   
 
 - Aprenda o que são funções e como usar o JavaScript para manipular elementos na tela
 - Desenvolva ainda mais sua lógica de programação inspirado num projeto real
@@ -41,9 +40,10 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ## Ganhe experiência com Git
 
-### ✅ Git e GitHub: compartilhando e colaborando em projetos  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) Git e GitHub: compartilhando e colaborando em projetos  
+
+
 
 - Aprender os principais comandos do Git
 - Compreender o fluxo de trabalho com GitHub
