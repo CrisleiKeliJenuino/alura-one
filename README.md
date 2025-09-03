@@ -40,10 +40,7 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ## Ganhe experiência com Git
 
-### ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) Git e GitHub: compartilhando e colaborando em projetos  
-
-
+### ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) Git e GitHub: compartilhando e colaborando em projetos
 
 - Aprender os principais comandos do Git
 - Compreender o fluxo de trabalho com GitHub
