@@ -95,7 +95,19 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 | Git e GitHub: compartilhando e colaborando em projetos       | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | Engenharia de Prompt: criando prompts eficazes para IA Generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | IA: explorando o potencial da inteligência artificial generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | 🚧 Em andamento | ![10%](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
+
 
 ---
+
+### 🚧 HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags  
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+
+- Aprenda a fazer o download e instalar um ambiente para o desenvolvimento de páginas HTML e CSS  
+- Saiba como estudar uma nova tecnologia com base na documentação  
+- Crie um projeto com HTML e CSS do zero  
+- Pratique estilizações com CSS  
+- Entenda a importância do HTML semântico e boas práticas de desenvolvimento  
+
 
 ✍️ *Este repositório será atualizado conforme avanço nos estudos.*
