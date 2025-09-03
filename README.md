@@ -14,10 +14,6 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 Todos os certificados dos cursos podem ser conferidos na pasta [certificados](certificados/).
 
-<p align="center">
-  <img src="logos/certificado.png" alt="Certificados" width="200"/>
-</p>
-
 ---
 
 # 📚 Meus Cursos
