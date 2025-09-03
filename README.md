@@ -94,8 +94,7 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ## 📚 Cursos em andamento
 
-### 🚧 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
-HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags  
+### 🚧 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags  
 
 - Aprenda a fazer o download e instalar um ambiente para o desenvolvimento de páginas HTML e CSS  
 - Saiba como estudar uma nova tecnologia com base na documentação  
