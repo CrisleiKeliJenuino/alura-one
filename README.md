@@ -20,8 +20,7 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ## Aprenda lógica de programação
 
-### ✅ Lógica de programação: mergulhe em programação com JavaScript 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  Lógica de programação: mergulhe em programação com JavaScript  
 
 - Exiba mensagens na tela de forma interativa
 - Utilize variáveis no desenvolvimento de software
