@@ -75,7 +75,7 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 ---
 
 ### ✅ IA: explorando o potencial da inteligência artificial generativa
-[![IA](https://img.shields.io/badge/IA-Em%20andamento-yellow?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![IA](https://img.shields.io/badge/IA-Concluído-brightgreen?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 - Como utilizar o ChatGPT para criar e manipular textos
 - Explorar as funcionalidades do Google AI Studio para IAs multimodais
