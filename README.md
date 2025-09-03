@@ -50,7 +50,7 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ## Encara o Challenge de Iniciante em Programação
 
-### [![Amigo Secreto](https://img.shields.io/badge/Challenge-Amigo%20Secreto-brightgreen?style=for-the-badge&logo=javascript)](https://amigosecreto-gamma-three.vercel.app/) Praticando Lógica de Programação: Challenge Amigo Secreto
+### [![Amigo Secreto](https://img.shields.io/badge/Challenge-Amigo%20Secreto-brightgreen?style=for-the-badge&logo=javascript)](https://amigosecreto-gamma-three.vercel.app/) Projeto: Challenge Amigo Secreto
 
 ---
 
