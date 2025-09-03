@@ -51,15 +51,13 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ## Encara o Challenge de Iniciante em Programação
 
-### ✅ Praticando Lógica de Programação: Challenge Amigo Secreto
-[![Amigo Secreto](https://img.shields.io/badge/Challenge-Amigo%20Secreto-brightgreen?style=for-the-badge&logo=javascript)](https://amigosecreto-gamma-three.vercel.app/)
+### [![Amigo Secreto](https://img.shields.io/badge/Challenge-Amigo%20Secreto-brightgreen?style=for-the-badge&logo=javascript)](https://amigosecreto-gamma-three.vercel.app/) Praticando Lógica de Programação: Challenge Amigo Secreto
 
 ---
 
 ## Domine a IA Generativa
 
-### ✅ Engenharia de Prompt: criando prompts eficazes para IA Generativa 
-[![IA Generativa](https://img.shields.io/badge/Engenharia%20de%20Prompt-IA%20Generativa-blue?style=for-the-badge&logo=openai&logoColor=white)](#)
+### [![IA Generativa](https://img.shields.io/badge/Engenharia%20de%20Prompt-IA%20Generativa-blue?style=for-the-badge&logo=openai&logoColor=white)](#) Engenharia de Prompt: criando prompts eficazes para IA Generativa 
 
 - Conceitos fundamentais de LLM e proximidade semântica
 - Entender e utilizar tokens
@@ -70,8 +68,7 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ---
 
-### ✅ IA: explorando o potencial da inteligência artificial generativa
-[![IA](https://img.shields.io/badge/%20-%20-1f1f1f?style=for-the-badge&logo=openai&logoColor=white)](#)
+### [![IA](https://img.shields.io/badge/%20-%20-1f1f1f?style=for-the-badge&logo=openai&logoColor=white)](#) IA: explorando o potencial da inteligência artificial generativa
 
 - Como utilizar o ChatGPT para criar e manipular textos
 - Explorar as funcionalidades do Google AI Studio para IAs multimodais
@@ -95,8 +92,10 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ---
 
-### 🚧 HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+## 📚 Cursos em andamento
+
+### 🚧 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags  
 
 - Aprenda a fazer o download e instalar um ambiente para o desenvolvimento de páginas HTML e CSS  
 - Saiba como estudar uma nova tecnologia com base na documentação  
@@ -104,5 +103,6 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 - Pratique estilizações com CSS  
 - Entenda a importância do HTML semântico e boas práticas de desenvolvimento  
 
+---
 
 ✍️ *Este repositório será atualizado conforme avanço nos estudos.*
