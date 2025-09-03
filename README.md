@@ -10,6 +10,16 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 ---
 
+# 🏆 Meus Certificados
+
+Todos os certificados dos cursos podem ser conferidos na pasta [certificados](certificados/).
+
+<p align="center">
+  <img src="logos/certificado.png" alt="Certificados" width="200"/>
+</p>
+
+---
+
 # 📚 Meus Cursos
 
 ## Aprenda lógica de programação
@@ -68,21 +78,7 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 
 ---
 
-## 🚀 Status dos Estudos
-
-| Curso                                                        | Status        | Progresso                                      |
-|--------------------------------------------------------------|---------------|------------------------------------------------|
-| Lógica de Programação com JavaScript                         | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| Lógica de Programação: Explore Funções e Listas              | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| Git e GitHub: compartilhando e colaborando em projetos       | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| Engenharia de Prompt: criando prompts eficazes para IA Generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| IA: explorando o potencial da inteligência artificial generativa | 🚧 Em andamento | ![10%](https://img.shields.io/badge/10%25-yellow) |
-
----
-
-## 📚 Cursos em andamento
-
-### 🚧 IA: explorando o potencial da inteligência artificial generativa
+### ✅ IA: explorando o potencial da inteligência artificial generativa
 [![IA em andamento](https://img.shields.io/badge/IA-Em%20andamento-yellow?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 - Como utilizar o ChatGPT para criar e manipular textos
@@ -91,6 +87,18 @@ Organizado entre **cursos concluídos** e **cursos em andamento**.
 - Integrar a Maritaca AI no ambiente de trabalho
 - Aplicar IAs generativas para aumentar a produtividade
 - Utilizar IAs para lidar com diferentes tipos de mídia
+
+---
+
+## 🚀 Status dos Estudos
+
+| Curso                                                        | Status        | Progresso                                      |
+|--------------------------------------------------------------|---------------|------------------------------------------------|
+| Lógica de Programação com JavaScript                         | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| Lógica de Programação: Explore Funções e Listas              | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| Git e GitHub: compartilhando e colaborando em projetos       | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| Engenharia de Prompt: criando prompts eficazes para IA Generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| IA: explorando o potencial da inteligência artificial generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 
 ---
 
