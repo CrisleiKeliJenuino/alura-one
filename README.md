@@ -88,7 +88,7 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 | Git e GitHub: compartilhando e colaborando em projetos       | ✅ Concluído  | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | Engenharia de Prompt: criando prompts eficazes para IA Generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | IA: explorando o potencial da inteligência artificial generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | 🚧 Em andamento | ![59%](https://img.shields.io/badge/59%25-yellow) |
+| HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | 🚧 Em andamento | ![10%](https://img.shields.io/badge/10%25-yellow) |
 
 ---
 
