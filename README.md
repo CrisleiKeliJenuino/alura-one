@@ -111,4 +111,6 @@ HTML e CSS: Classes, posicionamento e Flexbox | 🚧 Em Andamento | ![10%](https
 - Entenda como posicionar os elementos de uma página com CSS
 - Descubra como aplicar efeitos de estilização alterando cores, arredondamentos e importar fontes para seu projeto
 
+---
+
 ✍️ *Este repositório será atualizado conforme avanço nos estudos.*
