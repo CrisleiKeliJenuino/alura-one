@@ -57,7 +57,8 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ## Domine a IA Generativa
 
-### [![IA Generativa](https://img.shields.io/badge/Engenharia%20de%20Prompt-IA%20Generativa-blue?style=for-the-badge&logo=openai&logoColor=white)](#) Engenharia de Prompt: criando prompts eficazes para IA Generativa 
+[![IA Generativa](https://img.shields.io/badge/IA%20Generativa-blue?style=for-the-badge&logo=openai&logoColor=white)](#)
+ Engenharia de Prompt: criando prompts eficazes para IA Generativa
 
 - Conceitos fundamentais de LLM e proximidade semântica
 - Entender e utilizar tokens
