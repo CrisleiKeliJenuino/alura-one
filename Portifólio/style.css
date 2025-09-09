@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+    color: #FDEBD0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+strong{
+    color: #F75270;
+}
+
+h1{
+    color: #F7CAC9;
+}
+
+.Cris1{
+    width: 300px;
+    height: auto;
+    border: #F75270 2px solid;
+    padding: 2px;
+}
