@@ -1,10 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
 body{
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #000000;
     color: #FDEBD0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-strong{
+.titulo-destaque {
     color: #F75270;
 }
 
