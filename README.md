@@ -57,8 +57,7 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ## Domine a IA Generativa
 
-[![IA Generativa](https://img.shields.io/badge/IA%20Generativa-blue?style=for-the-badge&logo=openai&logoColor=white)](#)
- Engenharia de Prompt: criando prompts eficazes para IA Generativa
+### [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-blue?style=for-the-badge&logo=openai&logoColor=white)](#) Engenharia de Prompt: criando prompts eficazes para IA Generativa
 
 - Conceitos fundamentais de LLM e proximidade semântica
 - Entender e utilizar tokens
@@ -80,13 +79,13 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 
 ---
 
-### ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags  
+### ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) HTML e CSS: Classes, posicionamento e Flexbox  
 
-- Aprenda a fazer o download e instalar um ambiente para o desenvolvimento de páginas HTML e CSS  
-- Saiba como estudar uma nova tecnologia com base na documentação  
-- Crie um projeto com HTML e CSS do zero  
-- Pratique estilizações com CSS  
-- Entenda a importância do HTML semântico e boas práticas de desenvolvimento  
+- Aprenda a fazer o download e instalar um ambiente para o desenvolvimento de páginas HTML e CSS
+- Saiba como estudar uma nova tecnologia com base na documentação
+- Crie um projeto com HTML e CSS do zero
+- Pratique estilizações com CSS
+- Entenda a importância do HTML semântico e boas práticas de desenvolvimento
 
 ## 🚀 Status dos Estudos
 
@@ -98,7 +97,18 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 | Engenharia de Prompt: criando prompts eficazes para IA Generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | IA: explorando o potencial da inteligência artificial generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+HTML e CSS: Classes, posicionamento e Flexbox | 🚧 Em Andamento | ![10%](https://img.shields.io/badge/10%25-yellow) |
 
 ---
+
+# 🚧 Cursos em andamento
+
+### ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) HTML e CSS: Classes, posicionamento e Flexbox
+
+- Aprenda o que são classes CSS e sua importância
+- Conheça o Flexbox e aplique técnicas para posicionar seus elementos de forma prática
+- Saiba como estilizar seus textos, fontes e ícones
+- Entenda como posicionar os elementos de uma página com CSS
+- Descubra como aplicar efeitos de estilização alterando cores, arredondamentos e importar fontes para seu projeto
 
 ✍️ *Este repositório será atualizado conforme avanço nos estudos.*
