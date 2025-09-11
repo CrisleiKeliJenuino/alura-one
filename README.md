@@ -11,7 +11,7 @@ Este repositório reúne meus exercícios, arquivos e anotações dos cursos da 
 
 # 🏆 Meus Certificados  
 
-[![📜 Certificados](https://img.shields.io/badge/📜-Certificados-blue?style=for-the-badge)](certificados/)
+[![👉 Confira todos na pasta 📜 Certificados](https://img.shields.io/badge/📜-Certificados-blue?style=for-the-badge)](certificados/)
 
 
 ---
