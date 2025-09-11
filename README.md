@@ -97,19 +97,20 @@ Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](ce
 | Engenharia de Prompt: criando prompts eficazes para IA Generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | IA: explorando o potencial da inteligência artificial generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-HTML e CSS: Classes, posicionamento e Flexbox | 🚧 Em Andamento | ![30%](https://img.shields.io/badge/30%25-yellow) |
+| HTML e CSS: Classes, posicionamento e Flexbox | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
+| HTML e CSS: cabeçalho, footer e variáveis CSS | 🚧 Em Andamento | ![2%](https://img.shields.io/badge/2%25-yellow) |
 
 ---
 
 # 🚧 Cursos em andamento
 
-### ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) HTML e CSS: Classes, posicionamento e Flexbox
+### ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) HTML e CSS: cabeçalho, footer e variáveis CSS
 
-- Aprenda o que são classes CSS e sua importância
-- Conheça o Flexbox e aplique técnicas para posicionar seus elementos de forma prática
-- Saiba como estilizar seus textos, fontes e ícones
-- Entenda como posicionar os elementos de uma página com CSS
-- Descubra como aplicar efeitos de estilização alterando cores, arredondamentos e importar fontes para seu projeto
+- Entenda o dia a dia de um desenvolvedor Front-end de forma prática
+- Saiba como criar um código HTML e CSS seguindo boas práticas de programação
+- Descubra como utilizar variáveis CSS para manter seu código sustentável e limpo
+- Trabalhe com mais de uma página HTML no mesmo projeto
+- Conheça as pseudo classes com exemplos reais e práticos
 
 ---
 
