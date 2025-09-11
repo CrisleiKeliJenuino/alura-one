@@ -9,9 +9,9 @@ Este repositório reúne meus exercícios, arquivos e anotações dos cursos da 
 
 ---
 
-# 🏆 Meus Certificados
+# 🏆 Meus Certificados  
 
-Todos os certificados dos cursos podem ser conferidos na pasta [Certificados](certificados/).
+[![Certificados](https://img.shields.io/badge/📜%20Meus%20Certificados-blue?style=for-the-badge)](certificados/)
 
 ---
 
