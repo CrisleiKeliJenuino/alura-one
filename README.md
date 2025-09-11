@@ -98,7 +98,7 @@ Este repositório reúne meus exercícios, arquivos e anotações dos cursos da 
 | IA: explorando o potencial da inteligência artificial generativa | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | HTML e CSS: Classes, posicionamento e Flexbox | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| HTML e CSS: cabeçalho, footer e variáveis CSS | 🚧 Em Andamento | ![2%](https://img.shields.io/badge/2%25-yellow) |
+| HTML e CSS: cabeçalho, footer e variáveis CSS | 🚧 Em Andamento | ![4%](https://img.shields.io/badge/4%25-yellow) |
 
 ---
 
