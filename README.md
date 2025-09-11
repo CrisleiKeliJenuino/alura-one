@@ -13,7 +13,6 @@ Este repositório reúne meus exercícios, arquivos e anotações dos cursos da 
 
 [![📜 Confira todos aqui](https://img.shields.io/badge/📜-Confira%20todos%20aqui-blue?style=for-the-badge)](certificados/)
 
-
 ---
 
 # 📚 Meus Cursos
