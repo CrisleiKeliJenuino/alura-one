@@ -3,9 +3,8 @@
 :root{
     --cor-fundo: #000000;
     --cor-texto: #FDEBD0;
-    --cor-destaque: #F75270;
+    --cor-primaria: #F75270;
     --cor-secundaria: #F7CAC9;
-    --cor-link: #DC143C;
     --cor--rover: #463535;
 
     --fonte--primaria: "Krona One", sans-serif;
@@ -44,7 +43,7 @@ body{
     font-family: var(--fonte--secundaria);
     font-size: 1.5rem;
     font-weight: 600;
-    color: var(--cor-link);
+    color: var(--cor-primaria);
     text-decoration: none;
 }
 
@@ -65,7 +64,7 @@ body{
 }
 
 .titulo-destaque {
-    color: var(--cor-destaque);
+    color: var(--cor-primaria);
 }
 
 .destaque{
@@ -105,11 +104,11 @@ body{
     text-align: center;
     border-radius: 8px;
     font-size: 1.5rem;
-    padding: 10px 20px;
+    padding: 10px 80px;
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte--secundaria);
-    border: var(--cor-destaque) 2px solid;
+    border: var(--cor-primaria) 2px solid;
 }
 
 .apresentacao__links__link:hover{
@@ -124,7 +123,7 @@ body{
 .rodape{
     padding: 24px 0;
     color: var(--cor-texto);
-    background-color: var(--cor-destaque); 
+    background-color: var(--cor-primaria); 
     text-align:center;
     font-family: var(--fonte--secundaria);
     font-size: 1.5rem;
