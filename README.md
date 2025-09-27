@@ -95,6 +95,16 @@ Este repositório reúne meus exercícios, arquivos e anotações dos cursos da 
 - Trabalhe com mais de uma página HTML no mesmo projeto
 - Conheça as pseudo classes com exemplos reais e práticos
 
+### ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) HTML e CSS: trabalhando com responsividade e publicação de projetos
+
+- Saiba como tornar seu site responsivo para diferentes telas
+- Descubra o que é como usar a Media Query em seus projetos
+- Crie uma conta no GitHub para armazenar seu código na nuvem
+- Entenda a diferença de medidas absolutas e relativas
+- Publique seu projeto finalizado na web e mostre para todo o mundo
+
+---
+
 ## 🚀 Status dos Estudos
 
 | Curso                                                        | Status        | Progresso                                      |
@@ -107,20 +117,6 @@ Este repositório reúne meus exercícios, arquivos e anotações dos cursos da 
 | HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | HTML e CSS: Classes, posicionamento e Flexbox | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 | HTML e CSS: cabeçalho, footer e variáveis CSS | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
-| HTML e CSS: trabalhando com responsividade e publicação de projetos | 🚧 Em Andamento | ![4%](https://img.shields.io/badge/4%25-yellow) |
+| HTML e CSS: trabalhando com responsividade e publicação de projetos | ✅ Concluído | ![100%](https://img.shields.io/badge/100%25-brightgreen) |
 
 ---
-
-# 🚧 Cursos em andamento
-
-### ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) HTML e CSS: trabalhando com responsividade e publicação de projetos
-
-- Saiba como tornar seu site responsivo para diferentes telas
-- Descubra o que é como usar a Media Query em seus projetos
-- Crie uma conta no GitHub para armazenar seu código na nuvem
-- Entenda a diferença de medidas absolutas e relativas
-- Publique seu projeto finalizado na web e mostre para todo o mundo
-
----
-
-✍️ *Este repositório será atualizado conforme avanço nos estudos.*
